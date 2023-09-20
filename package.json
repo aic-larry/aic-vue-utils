@@ -7,12 +7,10 @@
     "build": "rollup -c"
   },
   "keywords": [],
-  "author": "",
+  "author": "lerryann",
   "type": "module",
   "license": "MIT",
-  "main": "dist/aic-vue-utils.cjs.js",
-  "module": "dist/aic-vue-utils.esm.js",
-  "browser": "dist/aic-vue-utils.umd.js",
+  "main": "dist/aic-vue-utils.esm.js",
   "files": [
     "src",
     "dist/*.js"
