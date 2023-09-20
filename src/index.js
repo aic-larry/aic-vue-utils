@@ -1,6 +1,6 @@
 export function testConsole(){
 
-  console.log('aic-vue-utils console...')
+  console.log('aic-vue-utils console...!')
 }
 export const testBabel = () => {
   const info = {
